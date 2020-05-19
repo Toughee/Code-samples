@@ -1,2 +1,9 @@
-# Finding the Fibonacci series between 0 to 50 
+# Return the nth element of a Fibonacci array
+def Fibonacci(n):
+	Fibonacci = (n-1)+(n-2)
 
+
+
+
+
+print(Fibonacci(7))
