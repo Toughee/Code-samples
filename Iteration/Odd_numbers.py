@@ -1,1 +1,0 @@
-# Print all odd numbers betwwen 1 to 100
